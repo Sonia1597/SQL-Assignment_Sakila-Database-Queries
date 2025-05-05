@@ -44,7 +44,3 @@ The assignment provides practical experience with `JOIN`, `GROUP BY`, `LIKE`, `C
 - Sakila Sample Database
 - SQL (DDL, DML, DQL)
 
----
-
-## 🗂️ File Structure
-
