@@ -1,6 +1,3 @@
-# SQL-Assignment_Sakila-Database-Queries
-This repository contains a set of beginner-to-intermediate level SQL queries designed to work with the Sakila sample database using MySQL Workbench. 
-
 # SQL Assignment - Sakila Database Queries
 
 SQL queries based on the Sakila database, covering joins, filtering, aggregation, case statements, and basic DDL/DML operations. Ideal for beginners practicing real-world SQL tasks.
